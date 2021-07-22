@@ -10,6 +10,7 @@
 
 Add your WordPress URL to the plugin options.
 
+
 ```js
 // gridsome.config.js
 
